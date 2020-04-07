@@ -43,7 +43,7 @@
           "type": 0,
           "lang": "en",
           "condition": "",
-          "speech": "I will use the organisation $organisation\nWhat is the repository? Say `repo is` followed by the repo name."
+          "speech": "I will use the organisation $organisation\nWhat is the repository? Say repo is followed by the repo name."
         }
       ],
       "defaultResponsePlatforms": {},

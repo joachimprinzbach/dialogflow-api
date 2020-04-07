@@ -29,9 +29,7 @@
       }
     ],
     "systemIntents": [],
-    "endIntentIds": [
-      "456f8710-a5ee-44e7-850e-71ffc491ced6"
-    ],
+    "endIntentIds": [],
     "oAuthLinking": {
       "required": false,
       "providerId": "",

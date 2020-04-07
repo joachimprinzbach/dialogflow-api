@@ -38,7 +38,7 @@
           "type": 0,
           "lang": "en",
           "condition": "",
-          "speech": "Thank you! I understood, that your repository is $repository\nNow I need your PullRequest Number! Say: My PullRequest number is"
+          "speech": "Thank you! I understood, that your repository is $repository\nNow I need your PullRequest Number! Say: PR id is followed by the nr."
         }
       ],
       "defaultResponsePlatforms": {},
