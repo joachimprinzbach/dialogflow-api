@@ -1,0 +1,50 @@
+{
+  "id": "456f8710-a5ee-44e7-850e-71ffc491ced6",
+  "name": "deploy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1838f3aa-1d2a-48e7-8ef3-2607ab6fe9e0",
+          "required": true,
+          "dataType": "@deploy",
+          "name": "command",
+          "value": "$command",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What do you want to do? Create a preview or deploy?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "bc5c757f-b51e-4702-83f7-70d989880134",
+    "data": [
+      {
+        "text": "repository ",
+        "userDefined": false
+      },
+      {
+        "text": "gitops-nginx-demo",
+        "alias": "repository",
+        "meta": "@repository",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "34670481-4d08-4bca-beca-72a2e9e9d254",
+    "data": [
+      {
+        "text": "my repo is ",
+        "userDefined": false
+      },
+      {
+        "text": "gitops-nginx-demo",
+        "alias": "repository",
+        "meta": "@repository",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b43cae23-55b4-423a-a9d3-a89895ec33c7",
+    "data": [
+      {
+        "text": "repo ",
+        "userDefined": false
+      },
+      {
+        "text": "gitops-nginx-demo",
+        "alias": "repository",
+        "meta": "@repository",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "57549de6-262f-4c0d-8658-08d2ef3eebaa",
+    "data": [
+      {
+        "text": "my repository is ",
+        "userDefined": false
+      },
+      {
+        "text": "gitops-nginx-demo",
+        "alias": "repository",
+        "meta": "@repository",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

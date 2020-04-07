@@ -1,0 +1,9 @@
+{
+  "id": "917dfd22-abeb-42e3-ae59-2ed456081530",
+  "name": "repository",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

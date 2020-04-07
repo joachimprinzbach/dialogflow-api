@@ -1,0 +1,9 @@
+{
+  "id": "880a765e-b568-4396-b0a0-b642e37dd2d4",
+  "name": "organisation",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

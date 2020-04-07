@@ -1,0 +1,61 @@
+{
+  "id": "ed29156a-645a-4df4-916e-c58ea7ee703f",
+  "name": "organisation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "setOrganisation",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "organisation-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "27f848db-7f02-4ca0-9d1b-28db14709b3f",
+          "required": true,
+          "dataType": "@organisation",
+          "name": "organisation",
+          "value": "$organisation",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is the GitHub organisation?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "I will use the organisation $organisation\nWhat is the repository? Say `repo is` followed by the repo name."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

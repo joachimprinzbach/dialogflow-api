@@ -1,0 +1,56 @@
+{
+  "id": "d1a26d99-6d8a-444a-86ab-cf8a74b7fbc7",
+  "name": "repository",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "setRepository",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5c4ed42b-cfe7-492b-92d9-79f053c618a6",
+          "required": true,
+          "dataType": "@repository",
+          "name": "repository",
+          "value": "$repository",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please say what your repository is."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Thank you! I understood, that your repository is $repository\nNow I need your PullRequest Number! Say: My PullRequest number is"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

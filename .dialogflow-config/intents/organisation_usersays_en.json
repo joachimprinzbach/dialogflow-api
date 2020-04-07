@@ -1,0 +1,164 @@
+[
+  {
+    "id": "430a58d7-8144-4c5f-ab5e-dbc9201b9060",
+    "data": [
+      {
+        "text": "the org is ",
+        "userDefined": false
+      },
+      {
+        "text": "baloise",
+        "alias": "organisation",
+        "meta": "@organisation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3b461cbc-d340-4f7f-8e16-37ffbf6f58ba",
+    "data": [
+      {
+        "text": "orga is ",
+        "userDefined": false
+      },
+      {
+        "text": "baloise",
+        "alias": "organisation",
+        "meta": "@organisation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7207975b-71d8-4fd4-b2a2-eb4983f317c4",
+    "data": [
+      {
+        "text": "orga ",
+        "userDefined": false
+      },
+      {
+        "text": "baloise",
+        "alias": "organisation",
+        "meta": "@organisation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ed85796-d12d-40cb-bdc1-68dc88723a56",
+    "data": [
+      {
+        "text": "org is ",
+        "userDefined": false
+      },
+      {
+        "text": "baloise",
+        "alias": "organisation",
+        "meta": "@organisation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48085f88-2f5e-4088-8557-3be4d363b737",
+    "data": [
+      {
+        "text": "org is ",
+        "userDefined": false
+      },
+      {
+        "text": "baloise-incubator",
+        "alias": "organisation",
+        "meta": "@organisation",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "71da6780-eb75-4233-a70e-493dd0708aa1",
+    "data": [
+      {
+        "text": "orga ",
+        "userDefined": false
+      },
+      {
+        "text": "baloise-incubator",
+        "alias": "organisation",
+        "meta": "@organisation",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "81506465-6146-4847-ae3c-0d8c1c3ef7de",
+    "data": [
+      {
+        "text": "org ",
+        "userDefined": false
+      },
+      {
+        "text": "baloise-incubator",
+        "alias": "organisation",
+        "meta": "@organisation",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "5530ac18-7ae8-4d84-a6e2-247c453330f9",
+    "data": [
+      {
+        "text": "My organisation is ",
+        "userDefined": false
+      },
+      {
+        "text": "baloise-incubator",
+        "alias": "organisation",
+        "meta": "@organisation",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "30dfa0d0-501d-4d60-aa99-1327f66724fe",
+    "data": [
+      {
+        "text": "Organisation is ",
+        "userDefined": false
+      },
+      {
+        "text": "baloise-incubator",
+        "alias": "organisation",
+        "meta": "@organisation",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

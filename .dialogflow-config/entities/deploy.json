@@ -1,0 +1,9 @@
+{
+  "id": "9eacc5c4-17f4-4611-a32f-c6dacf0ed5a1",
+  "name": "deploy",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}
