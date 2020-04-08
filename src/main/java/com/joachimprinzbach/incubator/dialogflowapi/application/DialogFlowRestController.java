@@ -24,8 +24,9 @@ public class DialogFlowRestController {
 
     @PostMapping(value = "api/webhook")
     public GoogleCloudDialogflowV2WebhookResponse perform(@RequestBody String stringRequest) throws IOException {
+        LOGGER.info(stringRequest);
         GoogleCloudDialogflowV2WebhookRequest parsedRequest = jacksonFactory.createJsonParser(stringRequest).parse(GoogleCloudDialogflowV2WebhookRequest.class);
-        String intent = parsedRequest.getQueryResult().getIntent().getDisplayName();
+        String intent = parsedRequest.getQueryResult().getQueryText();
         LOGGER.info("Handling intent: " + intent);
         if ("deploy".equals(intent)) {
             return deployService.deploy(parsedRequest);

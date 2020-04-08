@@ -10,7 +10,7 @@
         {
           "name": "setNumber",
           "parameters": {},
-          "lifespan": 5
+          "lifespan": 30
         }
       ],
       "parameters": [

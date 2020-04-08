@@ -10,12 +10,7 @@
         {
           "name": "setOrganisation",
           "parameters": {},
-          "lifespan": 5
-        },
-        {
-          "name": "organisation-followup",
-          "parameters": {},
-          "lifespan": 2
+          "lifespan": 30
         }
       ],
       "parameters": [

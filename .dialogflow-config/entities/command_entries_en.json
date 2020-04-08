@@ -1,0 +1,23 @@
+[
+  {
+    "value": "deploy",
+    "synonyms": [
+      "deploy",
+      "deployment"
+    ]
+  },
+  {
+    "value": "preview",
+    "synonyms": [
+      "preview",
+      "preview environment"
+    ]
+  },
+  {
+    "value": "replica",
+    "synonyms": [
+      "replica",
+      "replicacount"
+    ]
+  }
+]

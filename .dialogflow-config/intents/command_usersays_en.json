@@ -1,0 +1,70 @@
+[
+  {
+    "id": "b21dd388-1372-406b-b412-4561b25d3b80",
+    "data": [
+      {
+        "text": "deploy",
+        "alias": "command",
+        "meta": "@command",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b9bb9996-3736-41a1-b9e3-b4a27501e063",
+    "data": [
+      {
+        "text": "deploy",
+        "alias": "command",
+        "meta": "@command",
+        "userDefined": true
+      },
+      {
+        "text": " something",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aa1603ae-fec9-4d20-96d2-d1c97c262bcb",
+    "data": [
+      {
+        "text": "Lets ",
+        "userDefined": false
+      },
+      {
+        "text": "deploy",
+        "alias": "command",
+        "meta": "@command",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df5d417c-92c5-493c-a14e-827a36195152",
+    "data": [
+      {
+        "text": "I want to ",
+        "userDefined": false
+      },
+      {
+        "text": "deploy",
+        "alias": "command",
+        "meta": "@command",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

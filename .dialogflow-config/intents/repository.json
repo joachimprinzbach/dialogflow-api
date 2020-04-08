@@ -10,7 +10,7 @@
         {
           "name": "setRepository",
           "parameters": {},
-          "lifespan": 5
+          "lifespan": 30
         }
       ],
       "parameters": [

@@ -36,11 +36,11 @@ public class DeployService {
 
     private GoogleCloudDialogflowV2Context getRelevantContext(GoogleCloudDialogflowV2WebhookRequest request) {
         List<GoogleCloudDialogflowV2Context> outputContexts = request.getQueryResult().getOutputContexts();
-        int lifespanCount = 999;
+        int paramSize = 0;
         GoogleCloudDialogflowV2Context context = null;
         for (GoogleCloudDialogflowV2Context outputContext : outputContexts) {
-            if (outputContext.getLifespanCount() != null && outputContext.getLifespanCount() < lifespanCount) {
-                lifespanCount = outputContext.getLifespanCount();
+            if (outputContext.getParameters().size() > paramSize) {
+                paramSize = outputContext.getParameters().size();
                 context = outputContext;
             }
         }
